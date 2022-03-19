@@ -70,14 +70,17 @@ function Navigation({ themeToggler, currentTheme }) {
   return (
     <NavBar active={activeLink}>
       <Grow></Grow>
-      <NavItem onClick={() => activeLinkHandler(1)}>
+      <NavItem onClick={() => activeLinkHandler(1)}> 
         <a href="#about">About</a>
+      
       </NavItem>
       <NavItem onClick={() => activeLinkHandler(3)}>
         <a href="#projects">Projects</a>
+       
       </NavItem>
       <NavItem onClick={() => activeLinkHandler(5)}>
         <a href="#resume">Resume</a>
+       
       </NavItem>
       <NavItem onClick={() => activeLinkHandler(6)}>
         <a href="#contact">Contact</a>

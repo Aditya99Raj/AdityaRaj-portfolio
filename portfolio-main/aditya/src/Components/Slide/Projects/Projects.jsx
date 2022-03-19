@@ -57,7 +57,7 @@ let projectArray = [
       // "MongoDB",
     ],
     repoLink: "https://github.com/Duwesh/Purplle.com_web_clone",
-   // demoLink: "https://zoomcarcom.herokuapp.com/",
+    demoLink: "https://purplle.vercel.app/",
     type: "A collaborative project built by a team of 5 members under 1 weeks.",
     blogLink: "https://medium.com/@adityaraj9983/e-commerce-clone-purplle-com-b13ec4a9d9b2",
     features: [
@@ -81,10 +81,10 @@ let projectArray = [
       "Express",
       "MongoDB",
     ],
-    repoLink: "https://github.com/webdeveshverma/Marriott_Bonvoy_clone.github.io",
-   // demoLink: "https://zoomcarcom.herokuapp.com/",
+     repoLink: "https://github.com/webdeveshverma/Marriott_Bonvoy_clone.github.io",
+     demoLink: "https://masai-marriott-com.vercel.app/",
     type: "A collaborative project built by a team of 6 members under 4 days.",
-    blogLink: "https://medium.com/@nikhilnik_24208/clone-of-marriott-bonvoy-f3001ab316c5",
+     blogLink: "https://medium.com/@nikhilnik_24208/clone-of-marriott-bonvoy-f3001ab316c5",
     features: [
       "Signup and Login.",
       "Location based Hotels",
